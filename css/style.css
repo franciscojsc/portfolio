@@ -2,6 +2,10 @@ html {
     scroll-behavior: smooth;
 }
 
+.jumbotron {
+    margin: 0;
+}
+
 .profile-photo {
     border-radius: 50%;
 }
